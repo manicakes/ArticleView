@@ -1,0 +1,6 @@
+framework module ArticleView {
+  umbrella header "ArticleView-umbrella.h"
+
+  export *
+  module * { export * }
+}

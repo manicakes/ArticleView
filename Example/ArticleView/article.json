@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "success": true,
+        "originServeTime": 1436784540,
+        "node": "pnj04",
+        "processingTime": 0,
+        "waited": {},
+        "restricted": null,
+        "capped": null,
+        "pastDeadline": null,
+        "validated": true,
+        "version": {
+            "major": 4,
+            "minor": 1,
+            "patch": 8,
+            "config": "tag: 1.1.8, branch: ",
+            "gitBranch": "tag"
+        },
+        "httpStatus": 200
+    },
+    "result": {
+        "type": "item",
+        "subtype": "article",
+        "article": {
+            "type": "NewsArticle",
+            "id": "2015-07-13-u-s-index-futures-advance-as-greece-creditors-reach-agreement",
+            "name": "U.S. Index Futures Advance as Greece, Creditors Reach Agreement",
+            "bornAt": 1436784338431,
+            "internalID": "NRF0ER6S972M01",
+            "shortURL": "http://bloom.bg/1HpuQ8k",
+            "longURL": "http://www.bloomberg.com/news/articles/2015-07-13/u-s-index-futures-advance-as-greece-creditors-reach-agreement",
+            "quote": {
+                "text": null,
+                "credit": null
+            },
+            "byline": "Alan Soughley",
+            "isBloombergWire": false,
+            "date": 1436772051,
+            "primarySite": "bbiz",
+            "attributor": "bn",
+            "authoredRegion": "AMER",
+            "media": [],
+            "summary": "",
+            "text": "<p> U.S. stock-index futures advanced, signaling equities will rise a third day, as Greece and its creditors reached an agreement.</p> \n<p>E-mini contracts on the Standard &amp; Poor’s 500 Index expiring in September climbed 0.2 percent to 2,073.5 at 8:17 a.m. in London. Futures on the Dow Jones Industrial Average gained 54 points, or 0.3 percent, to 17,723.</p> \n<p>Greece reached an agreement with its creditors over the reforms needed to start talks for a third bailout in five years and remain in the euro.</p> \n<p>Greek Prime Minister Alexis Tsipras yielded to their austerity demands after almost 17 hours of talks at a euro-area summit in Brussels ending about 9 a.m. Monday.</p>",
+            "bviewArticle": false,
+            "topics": [
+                       {
+                       "type": "NewsTopic",
+                       "id": "greece",
+                       "name": "Greece",
+                       "bornAt": 1436290142897,
+                       "url": "http://www.bloomberg.com/topics/greece",
+                       "referrer": "mobile:/bbiz/topics/greece",
+                       "currentState": "OK"
+                       }
+                       ],
+            "category": {
+                "type": "ModuleSectionGroup",
+                "id": "latest",
+                "name": "latest"
+            },
+            "featured": false,
+            "categories": [
+                           {
+                           "type": "ModuleSectionGroup",
+                           "id": "latest",
+                           "name": "latest"
+                           }
+                           ],
+            "currentState": "OK"
+        },
+        "updatedAt": 1436784086160
+    }
+}
